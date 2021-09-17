@@ -1,7 +1,0 @@
-C:\Users\Moroz\Desktop\WebBox\bin\WebBox.dll.config
-C:\Users\Moroz\Desktop\WebBox\bin\WebBox.dll
-C:\Users\Moroz\Desktop\WebBox\bin\WebBox.pdb
-C:\Users\Moroz\Desktop\WebBox\obj\Debug\WebBox.csprojAssemblyReference.cache
-C:\Users\Moroz\Desktop\WebBox\obj\Debug\WebBox.csproj.CoreCompileInputs.cache
-C:\Users\Moroz\Desktop\WebBox\obj\Debug\WebBox.dll
-C:\Users\Moroz\Desktop\WebBox\obj\Debug\WebBox.pdb
